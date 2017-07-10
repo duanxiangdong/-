@@ -7,8 +7,8 @@
   6. 职业规划
 
 二面:   
-  1.自我介绍
-  2.JVM如何加载一个类的过程，双亲委派模型中有哪些方法   
+  1.自我介绍    
+  2.JVM如何加载一个类的过程，双亲委派模型中有哪些方法       
   3.HashMap如何实现的      
 （4）HashMap和Concurrent HashMap区别， Concurrent HashMap 线程安全吗， Concurrent HashMap如何保证 线程安全        
 （5）HashMap和HashTable 区别，HashTable线程安全吗        
